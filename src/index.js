@@ -5,3 +5,5 @@ import { AlertService } from "./app/alert.service"
 const alertService = new AlertService()
 
 run(alertService)
+
+console.log("Test")
